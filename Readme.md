@@ -1,4 +1,4 @@
-# 📘 API Blog - INF222
+# 📘 API Blog- INF222
 
 ## 🧠 Description
 
@@ -77,7 +77,7 @@ http://localhost:3000/api-docs
 
 ## 👨‍💻 Auteur
 
-Joseph
+K. Joseph Philippe
 Étudiant en informatique
 
 ---
